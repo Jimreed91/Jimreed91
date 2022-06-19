@@ -42,9 +42,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimreed91&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jimreed91" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimreed91&theme=dark" alt="jimreed91" /></p>
 
 
-<img src="https://www.jimreed91.me/images/example-5b355bf0.gif" style="width:400px">
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimreed91&show_icons=true&theme=tokyonight&locale=en" alt="jimreed91" /></p> -->
 
 <!-- 
