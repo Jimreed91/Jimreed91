@@ -28,8 +28,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimreed91" alt="jimreed91" /></a> </p> -->
 
 
-
-<img src="https://www.jimreed91.me/images/example-5b355bf0.gif" style="width:400px">
+<!-- 
+<img src="https://www.jimreed91.me/images/example-5b355bf0.gif" style="width:400px"> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimreed91&show_icons=true&theme=tokyonight&locale=en" alt="jimreed91" /></p> -->
 
 <!-- 
