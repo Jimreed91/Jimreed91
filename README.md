@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">An English full-stack developer in Tokyo</h3>
+<h3 align="center">Ruby on Rails developer from the UK in Tokyo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimreed91&label=Profile%20views&color=0e75b6&style=flat" alt="jimreed91" /> </p>
 
-<h2 align="left"> Currently working on a spray-mix management app for pesticide applications in orchards/vinyards and thinking about making a chess game in Ruby <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px"></h2> 
+<h2 align="left"> Currently contributing to Nurture, a platform to help tutors engage with their students more effectively. Current personal project is  a spray-mix management app for pesticide applications in orchards/vinyards. Thinking about making a console  chess game in Ruby  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px"></h2> 
 
 
 <h3 align="left">Connect with me:</h3>
