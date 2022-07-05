@@ -35,3 +35,4 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimreed91" alt="jimreed91" /></a> </p> -->
 
+<figure><embed src="https://wakatime.com/share/@4e19923f-fdfe-4dd0-8eb6-1b9483c67944/49a1ad57-f172-4487-88ce-38d90f1e94fe.svg"></embed></figure>
