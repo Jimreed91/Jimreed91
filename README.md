@@ -6,12 +6,12 @@
 <h2 align="left"> Currently contributing to Nurture, a platform to help tutors engage with their students more effectively. Current personal project is  a spray-mix management app for pesticide applications in orchards/vinyards. Thinking about making a console  chess game in Ruby  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px"></h2> 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch or take a look at my portfolio:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/jamesreed91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesreed91" height="30" width="40" /></a> << needs redoing but I'm busy coding...
+<a href="https://linkedin.com/in/jamesreed91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesreed91" height="30" width="40" /></a> 
   
-  <a href="https://www.jimreed91.me" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> << Working on my portfolio...
+  <a href="https://www.jimreed91.me" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <-Portfolio knocked together with Middleman (static site generator)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
