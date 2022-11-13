@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimreed91&label=Profile%20views&color=0e75b6&style=flat" alt="jimreed91" /> </p>
 
-<h2 align="left"> Currently contributing to Nurture, a platform to help tutors engage with their students more effectively. Current personal project is  a spray-mix management app for pesticide applications in orchards/vinyards. Thinking about making a console  chess game in Ruby  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px"></h2> 
+<h2 align="left"> Currently working on getting to grips with react after spending some time focussing on RoR backend along with Docker/Aws for a while. My main personal project has been a spray-mix management app for pesticide applications in orchards/vineyards.  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px"></h2> 
 
 
 - I'm contributing at [NurtureX](https://www.nurturex.co/)
