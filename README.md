@@ -6,10 +6,6 @@
 <h2 align="left"> Currently working on getting to grips with react after spending some time focussing on RoR backend along with Docker/Aws for a while. My main personal project has been a spray-mix management app for pesticide applications in orchards/vineyards.  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px"></h2> 
 
 
-- I'm contributing at [NurtureX](https://www.nurturex.co/)
-
-- My main personal project right now [Spray-day](http://www.spray-day.click/)
-
 - My portfolio site [https://www.jimreed91.me/](https://www.jimreed91.me/)
 
 - Email **jamesreed3050@gmail.com**
