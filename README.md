@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">Ruby on Rails developer from the UK in Tokyo</h3>
+<h3 align="center">Fullstack developer from the UK in Tokyo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimreed91&label=Profile%20views&color=0e75b6&style=flat" alt="jimreed91" /> </p>
 
