@@ -7,6 +7,7 @@
   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px">
   => https://cw.jimreed91.me
 </h2> 
+
 - Email **jamesreed3050@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
