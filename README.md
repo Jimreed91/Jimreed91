@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimreed91&label=Profile%20views&color=0e75b6&style=flat" alt="jimreed91" /> </p>
 
-<h2 align="left"> Digging into MERN right now and building a system to share my codewars challenge solutions 
-  [@ShareWars](https://cw.jimreed91.me)  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px"></h2> 
-
+<h2 align="left"> Digging into MERN right now and building a system to share my codewars challenge solutions   
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" style="width: 32px">
+  => https://cw.jimreed91.me
+</h2> 
 - Email **jamesreed3050@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
