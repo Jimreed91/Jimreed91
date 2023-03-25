@@ -69,7 +69,7 @@ Some of the technologies I work with:
 
   
   ### Building a Node app with authentication from the ground up 
-  Coming having started with RoR, building with node certainly requires a deeper understanding and that's exactly what I came away with! Frontend is coming soon for this one :)  
+  Coming from using primarily RoR, building with node certainly requires a deeper understanding and that's exactly what I came away with! Frontend is coming soon for this one :)  
   
   <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
        > => [Node BlogList](https://github.com/Jimreed91/node-blog) 
