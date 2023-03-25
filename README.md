@@ -55,24 +55,30 @@ Some of the technologies I work with:
 
   -----
   
-## Most Recent
+## Most Recent - *not necessarily my most impressive work*
 
 <img align="right" src="https://user-images.githubusercontent.com/74216026/227701028-7d6438f6-97a0-4abe-b058-81a3271472d5.gif">
 
  <p>
   
-  ### Docker-compose  (micro project) <img align="center" width="40px" src="https://media.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif">
+  ### Docker-compose  (micro project) 
   I put together a docker-compose file for locally running uptime-kuma, not really necessary unless I change computer since it starts up automatically but I wanted to refresh on how it works a little.
   
-  -> [Uptime Kuma Compose](https://github.com/Jimreed91/uptime-kuma-compose)
+   <img align="center" width="40px" src="https://media.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif"
+        > => [Uptime Kuma Compose](https://github.com/Jimreed91/uptime-kuma-compose)
+
   
-  ### Building a Node app with authentication from the ground up <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  ### Building a Node app with authentication from the ground up 
   Coming having started with RoR, building with node certainly requires a deeper understanding and that's exactly what I came away with! Frontend is coming soon for this one :)  
-  - => [Node BlogList](https://github.com/Jimreed91/node-blog)
   
-  ### A project to scrape my sharewars solutions <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+       > => [Node BlogList](https://github.com/Jimreed91/node-blog) 
+  
+  ### A project to scrape my sharewars solutions 
   I don't think my solutions are anything special but this was a fun project, I may need to refactor after my latest learnings!
-  - =>[ShareWars](https://cw.jimreed91.me)
+  
+  <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+       > => [ShareWars](https://cw.jimreed91.me) 
 </p>
 
 -----
