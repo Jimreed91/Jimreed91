@@ -1,28 +1,23 @@
 
   <h1 align="center">
-<!--     <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif"> -->
-    Hello, I'm James
-<!--     <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif"> -->
+    Hello, I'm James!
   </h1>
-  
+  <p align="center">
+    <img width="64px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="64px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="64px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+  </p>
   <h2 align="center">
-    <img align="center" width="75px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
     Welcome to my GitHub profile!
-    <img align="center" width="75px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
   </h2>
 
+## About me 
 
-  
-## About me
+#### I started out teaching myself Java, and things just snowballed from there! 
 
-<a padding="20px" href="https://www.codewars.com/users/Jimmr"> <img align="right" src="https://www.codewars.com/users/Jimmr/badges/large"></a>
-
-
-#### I started out self-teaching Java, things just snowballed from there! 
-  
   <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimreed91&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jimreed91" />
   
-I've built some FullStack Rails applications but recently have been working with Node and React. 
+I've built some FullStack Rails applications but recently have been working mainly with Node and React. 
 
 My pinned projects are all solo ones, but there are a couple of bootcamp projects in my repo if you want to check them out. Nurture actually continued for a few months and participated in an accellerator program which was exciting to be a part of.
 
@@ -36,14 +31,15 @@ I'm from the UK 🇬🇧 but have been located in Japan 🇯🇵 for the last ye
  - Peruse my: [Portfolio](https:jimreed91.me)
  - Link in? to my: [LinkedIn](https://www.linkedin.com/in/jamesreed91/)
  
+ <a href="https://www.codewars.com/users/Jimmr"> <img align="left" src="https://www.codewars.com/users/Jimmr/badges/large"></a>
+ 
  -----
-
 ## Skills
 
 Some of the technologies I work with:
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="jimreed91" />
-  
+
 | Backend | Icon | Frontend | Icon | Languages | Icon |
 | --- | --- | --- | --- | --- | --- |
 | Ruby on Rails | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Ruby on Rails" width="20" height="20" /> | React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" /> | JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" /> |
@@ -52,6 +48,8 @@ Some of the technologies I work with:
 | Postgres | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="20" height="20" /> | CSS-3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS-3" width="20" height="20" /> |  | |
 | Mongo-db | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongo-db" width="20" height="20" /> |  |  |  | |
 | Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" /> |  |  |  | |
+
+
 
   -----
   
