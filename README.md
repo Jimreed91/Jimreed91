@@ -11,7 +11,7 @@
 ## Most Recent
   
   ### Building a Node app with authentication from the ground up
-  Coming from RoR building with node certainly requires a deeper understanding, which is what I came away with! Frontend is coming soon for this one :)  the application above 
+  Coming having started with RoR, building with node certainly requires a deeper understanding and that's exactly what I came away with! Frontend is coming soon for this one :)  
   - => [Node BlogList](https://github.com/Jimreed91/node-blog)
   
   ### A project to scrape my sharewars solutions 
