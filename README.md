@@ -31,8 +31,11 @@ I'm from the UK 🇬🇧 but have been located in Japan 🇯🇵 for the last ye
   
  ***⚠  Right now I'm looking for projects to contribute to! ⚠*** 
   
- Reach out to me by: [Email](mailto:jamesreed3050@gmail.com)
-  
+ - Reach out to me by: [Email](mailto:jamesreed3050@gmail.com)
+ - Take a peek at my: [Resume](https://resume.jimreed91.me)
+ - Peruse my: [Portfolio](https:jimreed91.me)
+ - Link in? to my: [LinkedIn](https://www.linkedin.com/in/jamesreed91/)
+ 
  -----
 
 ## Skills
@@ -63,11 +66,11 @@ Some of the technologies I work with:
   
   -> [Uptime Kuma Compose](https://github.com/Jimreed91/uptime-kuma-compose)
   
-  ### Building a Node app with authentication from the ground up
+  ### Building a Node app with authentication from the ground up <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   Coming having started with RoR, building with node certainly requires a deeper understanding and that's exactly what I came away with! Frontend is coming soon for this one :)  
   - => [Node BlogList](https://github.com/Jimreed91/node-blog)
   
-  ### A project to scrape my sharewars solutions 
+  ### A project to scrape my sharewars solutions <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   I don't think my solutions are anything special but this was a fun project, I may need to refactor after my latest learnings!
   - =>[ShareWars](https://cw.jimreed91.me)
 </p>
