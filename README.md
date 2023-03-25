@@ -1,7 +1,9 @@
-<h1 align="center">Hello, I'm James 
+<h1 align="center">Hello, I'm James </h1>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimreed91&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jimreed91" />
 
 ### I started out self-teaching Java, things just snowballed from there
-  
+ 
+
 
   
 I've build some FullStack Rails applications but recently have been working with Node and React. My pinned projects are all solo ones, but there are a couple of bootcamp projects in my repo if you want to check them out. Nurture actually continued for a few months and participated in an accellerator program which was exciting to be a part of.
@@ -55,10 +57,11 @@ Some of the technologies I work with:
 
 -----
 
-### Stats widgets
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimreed91&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jimreed91" /></p>
+<!-- ### Stats widgets
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jimreed91&theme=dark" alt="jimreed91" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jimreed91&theme=dark" alt="jimreed91" /> -->
 
 
-<figure><embed src="https://wakatime.com/share/@4e19923f-fdfe-4dd0-8eb6-1b9483c67944/49a1ad57-f172-4487-88ce-38d90f1e94fe.svg"></embed></figure>
+-----
+
+<img  src="https://github.com/sorah/poignant-guide-epub/blob/master/images/dr.cham-4.gif?raw=true" />
