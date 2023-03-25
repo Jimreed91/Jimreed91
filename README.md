@@ -30,6 +30,10 @@ Some of the technologies I work with:
   -----
   
 ## Most Recent
+
+<img align="right" src="https://user-images.githubusercontent.com/74216026/227701028-7d6438f6-97a0-4abe-b058-81a3271472d5.gif">
+
+ <p>
   
   ### Docker-compose  (micro project) <img align="center" width="40px" src="https://media.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif">
   I put together a docker-compose file for locally running uptime-kuma, not really necessary unless I change computer since it starts up automatically but I wanted to refresh on how it works a little.
@@ -43,7 +47,7 @@ Some of the technologies I work with:
   ### A project to scrape my sharewars solutions 
   I don't think my solutions are anything special but this was a fun project, I may need to refactor after my latest learnings!
   - =>[ShareWars](https://cw.jimreed91.me)
-</p> 
+</p>
 
 -----
 
@@ -64,4 +68,5 @@ Some of the technologies I work with:
 
 -----
 
-<img  src="https://github.com/sorah/poignant-guide-epub/blob/master/images/dr.cham-4.gif?raw=true" />
+![dr cham-4](https://user-images.githubusercontent.com/74216026/227701161-31abd397-c368-4ec3-96e2-91898b9ba342.gif)
+
