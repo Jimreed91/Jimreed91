@@ -1,14 +1,37 @@
-<h1 align="center">Hello, I'm James </h1>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimreed91&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jimreed91" />
 
-### I started out self-teaching Java, things just snowballed from there
- 
+  <h1 align="center">
+<!--     <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif"> -->
+    Hello, I'm James
+<!--     <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif"> -->
+  </h1>
+  
+  <h2 align="center">
+    <img align="center" width="75px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    Welcome to my GitHub profile!
+    <img align="center" width="75px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+  </h2>
 
 
   
-I've build some FullStack Rails applications but recently have been working with Node and React. My pinned projects are all solo ones, but there are a couple of bootcamp projects in my repo if you want to check them out. Nurture actually continued for a few months and participated in an accellerator program which was exciting to be a part of.
+## About me
+
+<a padding="20px" href="https://www.codewars.com/users/Jimmr"> <img align="right" src="https://www.codewars.com/users/Jimmr/badges/large"></a>
+
+
+#### I started out self-teaching Java, things just snowballed from there! 
   
- [Email](mailto:jamesreed3050@gmail.com)
+  <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimreed91&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jimreed91" />
+  
+I've built some FullStack Rails applications but recently have been working with Node and React. 
+
+My pinned projects are all solo ones, but there are a couple of bootcamp projects in my repo if you want to check them out. Nurture actually continued for a few months and participated in an accellerator program which was exciting to be a part of.
+
+I'm from the UK 🇬🇧 but have been located in Japan 🇯🇵 for the last year, it's been an exciting time!
+
+  
+ ***⚠  Right now I'm looking for projects to contribute to! ⚠*** 
+  
+ Reach out to me by: [Email](mailto:jamesreed3050@gmail.com)
   
  -----
 
@@ -64,9 +87,6 @@ Some of the technologies I work with:
 <!-- ### Stats widgets
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jimreed91&theme=dark" alt="jimreed91" /> -->
-
-
------
-
-![dr cham-4](https://user-images.githubusercontent.com/74216026/227701161-31abd397-c368-4ec3-96e2-91898b9ba342.gif)
-
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/74216026/227701161-31abd397-c368-4ec3-96e2-91898b9ba342.gif">
+</p>
