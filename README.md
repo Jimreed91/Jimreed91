@@ -1,18 +1,20 @@
 
-  <p align="center">
-      <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
-    <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
-    <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
-  </p>
+
 
   <h1 align="center">
-    Hello, I'm James!
+    Hello, I'm James
   </h1>
   
 
   <h2 align="center">
     Welcome to my GitHub profile!
   </h2>
+  
+   <p align="center">
+     <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+  </p>
   
 
 ## About me 
@@ -37,7 +39,16 @@ I'm from the UK 🇬🇧 but have been located in Japan 🇯🇵 for the last ye
  
  <a href="https://www.codewars.com/users/Jimmr"> <img align="left" src="https://www.codewars.com/users/Jimmr/badges/large"></a>
  
- -----
+ ---
+ 
+   <p align="center">
+      <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+  </p>
+  
+ ---
+ 
 ## Skills
 
 Some of the technologies I work with:
@@ -53,9 +64,15 @@ Some of the technologies I work with:
 | Mongo-db | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongo-db" width="20" height="20" /> |  |  |  | |
 | Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" /> |  |  |  | |
 
+---
 
-
-  -----
+  <p align="center">
+      <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+  </p>
+  
+---
   
 ## Most Recent - *not necessarily my most impressive work*
 
@@ -83,8 +100,14 @@ Some of the technologies I work with:
        > => [ShareWars](https://cw.jimreed91.me) 
 </p>
 
------
-
+---
+  <p align="center">
+      <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="30px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+  </p>
+  
+---
 
 # Blog posts
 
