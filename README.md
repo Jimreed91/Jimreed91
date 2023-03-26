@@ -1,15 +1,19 @@
 
+  <p align="center">
+      <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+    <img width="40px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
+  </p>
+
   <h1 align="center">
     Hello, I'm James!
   </h1>
-  <p align="center">
-    <img width="64px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
-    <img width="64px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
-    <img width="64px" src="https://user-images.githubusercontent.com/74216026/227701601-11635063-66bd-4e2b-9e16-6ffe99c57b05.gif">
-  </p>
+  
+
   <h2 align="center">
     Welcome to my GitHub profile!
   </h2>
+  
 
 ## About me 
 
