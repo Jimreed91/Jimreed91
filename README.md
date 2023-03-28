@@ -34,7 +34,7 @@ I'm from the UK 🇬🇧 but have been located in Japan 🇯🇵 for the last ye
   
  - Reach out to me by: [Email](mailto:jamesreed3050@gmail.com)
  - Take a peek at my: [Resume](https://resume.jimreed91.me)
- - Peruse my: [Portfolio](https:jimreed91.me)
+ - Peruse my: [Portfolio](https://jimreed91.me)
  - Link in? to my: [LinkedIn](https://www.linkedin.com/in/jamesreed91/)
  
  <a href="https://www.codewars.com/users/Jimmr"> <img align="left" src="https://www.codewars.com/users/Jimmr/badges/large"></a>
