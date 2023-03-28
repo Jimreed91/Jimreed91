@@ -55,7 +55,7 @@ Some of the technologies I work with:
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="jimreed91" />
 
-| Backend | Icon | Frontend | Icon | Languages | Icon |
+| Backend |  | Frontend |  | Languages |  |
 | --- | --- | --- | --- | --- | --- |
 | Ruby on Rails | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Ruby on Rails" width="20" height="20" /> | React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" /> | JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" /> |
 | Node | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="20" height="20" /> | Tailwind | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="20" height="20" /> | Ruby | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="20" height="20" /> |
@@ -119,8 +119,9 @@ Some of the technologies I work with:
 -----
 
 <!-- ### Stats widgets
-
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jimreed91&theme=dark" alt="jimreed91" /> -->
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/74216026/227701161-31abd397-c368-4ec3-96e2-91898b9ba342.gif">
+<p  align="center">
+  <a href="https://poignant.guide/">
+    <img  src="https://user-images.githubusercontent.com/74216026/227701161-31abd397-c368-4ec3-96e2-91898b9ba342.gif">
+  </a>
 </p>
