@@ -19,7 +19,7 @@
 
 ## About me 
 
-#### I started out teaching myself Java, and things just snowballed from there! 
+#### I started out teaching myself Java (no, not JavaScript), and things just snowballed from there! 
 
   <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimreed91&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jimreed91" />
   
