@@ -80,6 +80,12 @@ Some of the technologies I work with:
 
  <p>
   
+  ### Chirper
+  Testing out PHP, Laravel and Vue with Laravels 'bootcamp' tutorial and a few of my own experiments.
+  
+   <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
+        > => [Chirper](http://165.232.168.24/) 
+  
   ### Docker-compose  (micro project) 
   I put together a docker-compose file for locally running uptime-kuma, not really necessary unless I change computer since it starts up automatically but I wanted to refresh on how it works a little.
   
