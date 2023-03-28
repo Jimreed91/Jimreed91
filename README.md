@@ -25,7 +25,7 @@
   
 I've built some FullStack Rails applications but recently have been working mainly with Node and React. 
 
-My pinned projects are all solo ones, but there are a couple of bootcamp projects in my repo if you want to check them out. Nurture actually continued for a few months and participated in an accellerator program which was exciting to be a part of.
+My pinned projects are all solo ones, but there are a couple of bootcamp projects in my repo if you want to check them out. [Nurture](https://www.nurture.pw/) actually continued for a few months and participated in an accellerator program which was exciting to be a part of.
 
 I'm from the UK 🇬🇧 but have been located in Japan 🇯🇵 for the last year, it's been an exciting time!
 
