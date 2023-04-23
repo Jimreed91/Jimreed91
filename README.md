@@ -80,6 +80,9 @@ Some of the technologies I work with:
 
  <p>
   
+  ### Testing 
+  Working through setting up testing for a Node API and React components with Jest and then integration tests in Cypress.
+  
   ### Chirper
   Testing out PHP, Laravel and Vue with Laravels 'bootcamp' tutorial and a few of my own experiments.
   
