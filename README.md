@@ -121,7 +121,6 @@ Some of the technologies I work with:
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Horticulture to Software Part 1: Why?](https://medium.com/@jamesreed3050/horticulture-to-software-part-1-why-286c74de897b?source=rss-923bdd4d1477------2)
 - [Setting up Polymorphic Likes in Ruby on Rails](https://medium.com/@jamesreed3050/setting-up-polymorphic-likes-in-rails-7d8be2e01c12?source=rss-923bdd4d1477------2)
 <!-- BLOG-POST-LIST:END -->
 
